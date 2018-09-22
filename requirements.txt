@@ -1,0 +1,11 @@
+cython 
+numpy 
+future 
+itsdangerous 
+Werkzeug 
+click 
+MarkupSafe 
+Jinja2 
+flask 
+gunicorn
+fasttext
