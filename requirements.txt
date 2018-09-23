@@ -1,4 +1,4 @@
-#cython==0.24.1 
+Cython==0.24.1 
 #numpy 
 #future 
 #itsdangerous 
