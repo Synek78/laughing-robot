@@ -1,4 +1,4 @@
-Cython==0.24.1 
+#Cython==0.24.1 
 #numpy 
 #future 
 #itsdangerous 
@@ -6,6 +6,8 @@ Cython==0.24.1
 #click 
 #MarkupSafe 
 #Jinja2 
-flask 
-gunicorn
-fasttext==0.8.3
+#flask 
+#gunicorn
+#fasttext==0.8.3
+Cython
+fasttext
